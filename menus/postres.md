@@ -14,3 +14,6 @@ Hoy en día la repostería se considera una rama de la gastronomía, pues se ded
 - Agua con limón.
 - agua
 - gaseosa
+
+## Consejos
+- Es el electrodoméstico más importante en la repostería, ya que sin este no sería posible cocinar tortas, cupcakes, muffins o panes. Existen dos tipos de hornos, para que los tengas en cuenta según tus necesidades.
