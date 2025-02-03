@@ -18,3 +18,7 @@ Una de las características más distintivas de la cocina india es el uso abunda
 - Masala Chai
 - Dudh Badam
 - Leche de rosas
+
+## Consejos
+- No se puede comer carne de res. 
+- Los indios suelen comer con las manos y tienen diversas explicaciones para hacer esto: consideran que la comida es divina y es necesario disfrutar de ella no solo con los sentidos del gusto, sino también con los del olfato, la vista y el tacto.
