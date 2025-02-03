@@ -22,3 +22,8 @@ A la comida China se le da un sentido del gusto con las artes culinarias basánd
 - Leche de soja. 
 - Leche de coco. 
 - Vino Osmanthus.
+
+## Consejos
+- Trata de variar las carnes y las verduras en un plato, para que haya una interesante variedad de sabores, texturas y colores. Los chinos creemos que es importante encontrar el equilibrio y la armonía en todos los aspectos de la vida, incluida la comida.
+- Lo fresco es mejor: utiliza ingredientes frescos siempre que sea posible.
+- Asegúrate de tener todo preparado antes de empezar a cocinar: las verduras lavadas, escurridas y cortadas; la carne cortada y marinada; las salsas preparadas.
