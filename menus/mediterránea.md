@@ -10,3 +10,9 @@ Incluye alimentos que se comen en Grecia, España, el sur de Italia y Francia y 
 - **Tabulé**
 - **Calamari a la Romana**
 - **Ensalada Griega**
+
+## Bebidas Recomendadas
+- Zumo de naranjas valencianas ( y algo más) 
+- Sangría española. 
+- Horchata. 
+- Agua de Valencia
