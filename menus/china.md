@@ -12,3 +12,13 @@ A la comida China se le da un sentido del gusto con las artes culinarias basánd
 - Lo mein.
 - Chow mein.
 - sualsa aul peyu.
+
+## Bebidas Recomendadas
+- Whisky con té verde.
+- Té con leche y tapioca. 
+- C100. 
+- Jiuniang o vino de arroz fermentado. 
+- Té de crisantemo. 
+- Leche de soja. 
+- Leche de coco. 
+- Vino Osmanthus.
