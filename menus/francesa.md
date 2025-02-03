@@ -11,3 +11,8 @@ La cocina francesa está caracterizada por la variedad de platos que presenta de
 - **Tarte au Fromage**: Masa de queso, tomate, oliva, aceite de oliva y queso.
 - **Soupe au Fromage**: Masa de queso, tomate, oliva, aceite de oliva y queso.
 - **Soupe au Tomate**: Masa de queso, tomate, oliva, aceite de oliva y queso.
+
+## Bebidas Recomendadas
+- Whisky: El whisky francés es el más famoso del mundo.
+- Cognac: El cónico francés es el más famoso del mundo.
+- Vodka: El vodka francés es el más famoso del mundo.
