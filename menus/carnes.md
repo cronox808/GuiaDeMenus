@@ -8,3 +8,11 @@ La cocina carnes se caracteriza por la utilización de carne, especialmente de l
 -  **carne de cerdo**: carne de cerdo, aceite de oliva y sal.
 - **carne sudada**: carne sudada, aceite de oliva y sal.
 - **carne asada**: carne asada, aceite de oliva y sal.
+
+## Bebidas Recomendadasº
+- brandy
+- Whisky
+- Whiskey
+- Tequila
+- ron
+
