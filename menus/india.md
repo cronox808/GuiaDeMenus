@@ -11,3 +11,10 @@ Una de las características más distintivas de la cocina india es el uso abunda
 - **Chicken Korma**: Masa de queso, queso, salsa y queso. 
 - **Chicken Dal**: Masa de queso, queso, salsa y queso. 
 - **Chicken Khichdi**: Masa de queso, queso, salsa y queso.
+
+## Bebidas Recomendadas
+- Nimbu Pani
+- Lassi de mango
+- Masala Chai
+- Dudh Badam
+- Leche de rosas
