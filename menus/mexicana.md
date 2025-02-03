@@ -10,3 +10,12 @@ Es una manifestación cultural viva, antigua con continuidad histórica y origin
 - **Quesadillas**: Masa de queso, queso, salsa y queso.
 - **Sopa de Cebolla**: Masa de queso, cebolla, salsa y queso.
 - **Sopa de Frijoles**: Masa de queso, frijoles, salsa y queso.
+
+## Bebidas Recomendadas
+Mezcal. El mezcal es el primo ahumado del tequila. 
+Raicilla. 
+Margarita. 
+Paloma. 
+Carajillo. 
+Cervezas Artesanales. 
+Michelada
