@@ -8,3 +8,13 @@ La gastronomía japonesa destaca por su sencillez y elegancia en cada plato. La 
 - **Ramen**: Arroz, verduras y ricotta.
 - **Tempura**: Arroz, verduras y ricotta.
 - **Yakitori**: Arroz, verduras y ricotta.
+
+## Bebidas Recomendadas
+- Sake: El espíritu de Japón
+- Ramune: La bebida refrescante y divertida
+- Cerveza Kirin Ichiban: El sabor premium de Japón
+- Té 
+- Soju
+- Lassi
+- Bubble Tea
+- Calpis
