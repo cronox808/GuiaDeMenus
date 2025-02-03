@@ -16,3 +16,5 @@ La cocina carnes se caracteriza por la utilización de carne, especialmente de l
 - Tequila
 - ron
 
+## Consejos
+- Para evitar que se seque, utilice métodos como marinar, rociar con aceite o cocinar con humedad (estofado o cocción lenta) . Además, evite cocinar demasiado utilizando un termómetro para carne para garantizar el punto de cocción exacto
