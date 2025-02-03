@@ -18,3 +18,6 @@ La cocina vegetariana se caracteriza por la ausencia de carne, por lo que se enf
 -  Tequila
 -  ron
 
+## Consejos
+-  No se puede comer carne de res.
+-  no  se pueden comer productos derivados de animales.
