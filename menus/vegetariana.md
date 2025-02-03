@@ -9,3 +9,12 @@ La cocina vegetariana se caracteriza por la ausencia de carne, por lo que se enf
 **Rollitos de calabacín rellenos de verduras y queso**: Masa de queso, queso, salsa y queso.
 **Sopa de lentejas**: Masa de lentejas, aceite de oliva y sal.
 **Arroz con setas**: Arroz, setas y aceite de oliva.
+
+## Bebidas Recomendadas
+- Agua con limón.
+-  brandy
+-  Whisky
+-  Whiskey
+-  Tequila
+-  ron
+
