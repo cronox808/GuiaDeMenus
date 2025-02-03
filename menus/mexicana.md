@@ -12,10 +12,15 @@ Es una manifestación cultural viva, antigua con continuidad histórica y origin
 - **Sopa de Frijoles**: Masa de queso, frijoles, salsa y queso.
 
 ## Bebidas Recomendadas
-Mezcal. El mezcal es el primo ahumado del tequila. 
-Raicilla. 
-Margarita. 
-Paloma. 
-Carajillo. 
-Cervezas Artesanales. 
-Michelada
+- Mezcal. El mezcal es el primo ahumado del tequila. 
+- Raicilla. 
+- Margarita. 
+- Paloma. 
+- Carajillo. 
+- Cervezas Artesanales. 
+- Michelada
+
+## Consejos
+-  No más cascarones rotos
+-  Jitomates sin cáscara
+- Chiles asados sin olor
