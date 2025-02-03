@@ -9,3 +9,8 @@ Hoy en día la repostería se considera una rama de la gastronomía, pues se ded
 - **Dulce de leche**: Huevos, azúcar, harina y leche.
 - **Confitura**: Huevos, azúcar, harina y leche.
 - **Mermelada**: Huevos, azúcar, harina y leche.
+
+## Bebidas Recomendadas
+- Agua con limón.
+- agua
+- gaseosa
