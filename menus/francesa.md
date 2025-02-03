@@ -16,3 +16,13 @@ La cocina francesa está caracterizada por la variedad de platos que presenta de
 - Whisky: El whisky francés es el más famoso del mundo.
 - Cognac: El cónico francés es el más famoso del mundo.
 - Vodka: El vodka francés es el más famoso del mundo.
+
+## Consejos
+- Reduce la grasa en las salsas
+- Enloquécete con los vegetales
+- Quítale la grasa a la carne
+- Escoge el método de cocción indicado
+- No le eches demasiada sal a tus platos
+- Deja descansar a la carne
+- No quemes la grasa
+- Papas fritas más sanas
